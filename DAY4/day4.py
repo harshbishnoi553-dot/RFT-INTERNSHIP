@@ -11,10 +11,10 @@ def analyze_logs(logs):
     # Loop through each log
     for log in logs:
 
-        # Ignore case sensitivity
+        
         log = log.upper()
 
-        # Pattern detection using startswith()
+        
         if log.startswith("ERROR"):
             log_count["ERROR"] += 1
 
@@ -24,19 +24,19 @@ def analyze_logs(logs):
         elif log.startswith("WARNING"):
             log_count["WARNING"] += 1
 
-    # Print counts
+
     print("Log Counts:")
     print("ERROR :", log_count["ERROR"])
     print("INFO :", log_count["INFO"])
     print("WARNING :", log_count["WARNING"])
 
-    # Find most frequent log type
+    
     most_frequent = max(log_count, key=log_count.get)
 
     print("\nMost Frequent Log Type:", most_frequent)
 
 
-# Given logs
+
 logs = [
     "ERROR DISK FULL",
     "INFO STARTED",
@@ -46,5 +46,5 @@ logs = [
     "ERROR network failed"
 ]
 
-# Function call
+
 analyze_logs(logs)
