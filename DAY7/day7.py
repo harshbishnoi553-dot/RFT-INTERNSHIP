@@ -42,4 +42,4 @@ print("\nNUMBER OF STUDENTS ABOVE AVERAGE:")
 print(len(above_avg))
 
 print("\nSUBJECT-WISE AVERAGE:")
-print(subject_avg)
+print(subject_avg) 
