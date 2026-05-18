@@ -22,3 +22,4 @@ with open("filtered_data.txt", "w") as file:
         file.write(str(employee) + "\n")
 
 print("\nFiltered data saved successfully.")
+
