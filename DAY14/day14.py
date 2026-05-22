@@ -7,7 +7,7 @@ plt.figure(figsize=(6,6))
 plt.pie(
     expenses,
     labels=[f"{c} {e/sum(expenses)*100:.1f}%" for c, e in zip(categories, expenses)],
-    autopct='%1.1f%%'
+    autopct='%1.1f%%'                                   
 )
 
 highest = categories[expenses.index(max(expenses))]
