@@ -28,3 +28,4 @@ print("WARNING:", count["WARNING"])
 
 most_frequent = count.most_common(1)[0]
 print("Most Frequent Log Type:", most_frequent[0])
+
