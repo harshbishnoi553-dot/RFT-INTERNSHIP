@@ -1,0 +1,16 @@
+Priya Singh
+Software Developer
+
+Skills:
+Java
+HTML
+CSS
+JavaScript
+Git
+React
+
+Experience:
+3 years
+
+Education:
+B.Tech

@@ -1,0 +1,17 @@
+Rahul Sharma
+Python Developer
+
+Skills:
+Python
+SQL
+Pandas
+Machine Learning
+Git
+GitHub
+NumPy
+
+Experience:
+2 years
+
+Education:
+B.Tech Computer Science
