@@ -1,0 +1,13 @@
+Post_ID,User,Date,Time,Hashtags,Likes,Comments,Shares,Category,Text,Sentiment
+1,Amit,2026-09-20,09:30,#Python #Coding,120,20,15,Technology,Learning Python today,Neutral
+2,Riya,2026-09-20,10:15,#AI #MachineLearning,250,35,40,Technology,AI is changing the world,Neutral
+3,Rohit,2026-09-20,18:30,#Python #AI,300,50,60,Technology,Building an amazing AI project,Positive
+4,Neha,2026-09-21,12:00,#Travel #Nature,180,25,30,Travel,Beautiful mountains and nature,Positive
+5,Amit,2026-09-21,19:00,#Python #Coding,220,40,35,Technology,Python project completed,Neutral
+6,Riya,2026-09-21,20:30,#AI #Future,350,60,70,Technology,The future of AI is exciting,Positive
+7,Rohit,2026-09-22,08:45,#Fitness #Health,150,20,25,Health,Morning workout motivation,Neutral
+8,Neha,2026-09-22,17:30,#Travel #Adventure,280,45,50,Travel,Exploring a beautiful place,Positive
+9,Amit,2026-09-22,21:00,#Coding #Python,320,55,65,Technology,Coding late at night,Negative
+10,Riya,2026-09-23,18:00,#AI #Technology,400,70,80,Technology,AI technology is growing rapidly,Neutral
+11,Rohit,2026-09-23,09:15,#Fitness #Health,190,30,25,Health,Healthy lifestyle tips,Positive
+12,Neha,2026-09-23,19:30,#Travel #Nature,310,50,55,Travel,Sunset view from the mountains,Neutral

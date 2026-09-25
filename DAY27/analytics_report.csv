@@ -1,0 +1,13 @@
+Post_ID,User,Date,Time,Hashtags,Likes,Comments,Shares,Engagement,Category
+1,Amit,2026-09-20,09:30,#Python #Coding,120,20,15,155,Technology
+2,Riya,2026-09-20,10:15,#AI #MachineLearning,250,35,40,325,Technology
+3,Rohit,2026-09-20,18:30,#Python #AI,300,50,60,410,Technology
+4,Neha,2026-09-21,12:00,#Travel #Nature,180,25,30,235,Travel
+5,Amit,2026-09-21,19:00,#Python #Coding,220,40,35,295,Technology
+6,Riya,2026-09-21,20:30,#AI #Future,350,60,70,480,Technology
+7,Rohit,2026-09-22,08:45,#Fitness #Health,150,20,25,195,Health
+8,Neha,2026-09-22,17:30,#Travel #Adventure,280,45,50,375,Travel
+9,Amit,2026-09-22,21:00,#Coding #Python,320,55,65,440,Technology
+10,Riya,2026-09-23,18:00,#AI #Technology,400,70,80,550,Technology
+11,Rohit,2026-09-23,09:15,#Fitness #Health,190,30,25,245,Health
+12,Neha,2026-09-23,19:30,#Travel #Nature,310,50,55,415,Travel
