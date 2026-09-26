@@ -1,0 +1,5 @@
+invoice_number,customer_name,customer_email,invoice_date,due_date,item,quantity,unit_price
+INV-1001,Amit Sharma,amit@example.com,2026-09-01,2026-09-15,Laptop,1,55000
+INV-1002,Riya Verma,riya@example.com,2026-09-10,2026-10-10,Monitor,2,12000
+INV-1003,Rahul Singh,rahul@example.com,2026-08-20,2026-09-05,Keyboard,3,1500
+INV-1004,Sneha Gupta,sneha@example.com,2026-09-20,2026-10-20,Printer,1,18000
